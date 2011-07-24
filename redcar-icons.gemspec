@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.summary     = "Icons used in Redcar"
   s.description = ""
  
-  s.files        = Dir.glob("icons/*") + %w(LICENSE)
+  s.files        = Dir.glob("icons/*") + %w(LICENSE lib/redcar-icons.rb)
   s.executables  = []
   s.require_path = 'lib'
 end
