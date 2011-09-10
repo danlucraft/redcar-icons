@@ -1,8 +1,8 @@
 
 Gem::Specification.new do |s|
   s.name        = "redcar-icons"
-  s.version     = "0.2"
-  s.platform    = "java"
+  s.version     = "0.3"
+  s.platform    = "ruby"
   s.authors     = ["Daniel Lucraft"]
   s.email       = []
   s.homepage    = "https://github.com/redcar/redcar-icons"
